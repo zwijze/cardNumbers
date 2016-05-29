@@ -2,6 +2,16 @@
 <resources>
 
     <string name="hello">Hello World, MainActivity!</string>
-    <string name="app_name">cardNumbers</string>
-
+    <string name="app_name">TWScv</string>
+	<string name="button_ok">Ok</string>
+	<string name="button_cancel">Clear</string>
+	<string name="button_exit">Exit</string>
+	<string name="button_save">Save</string>
+	<string name="user_prompt">Choose a user</string>
+	<string name="label_user">User:</string>
+	<string name="label_input">Card index input:</string>
+	<string name="label_output">Card index output:</string>
+	<string name="label_file">File:</string>
+	<string-array name="user_array"></string-array>
+	
 </resources>
